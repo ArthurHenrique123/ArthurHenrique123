@@ -1,7 +1,7 @@
 ### Olá muito prazer, eu me chamo Arthur Henrique de Souza 👊
 
 ### Redes Sociais 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/arthurhenrisouzaa/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurhenrisouzaa/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-souza-7ba6bb225/)
 
 
