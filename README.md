@@ -21,6 +21,7 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://linkedin.com/in/arthur-souza-7ba6bb225/)
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://linkedin.com/in/arthur-souza-7ba6bb225/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/EeV2W9f2cYDqIE6AmOcJll/teste01?type=design&node-id=0%3A1&mode=design&t=pN9zwiEuQlhQ5yNK-1/) 
+[![typescript](https://img.shields.io/badge/TypeCript-E34F26?style=for-the-badge&logo=html5&logoColor=whit)](https://linkedin.com/in/arthur-souza-7ba6bb225/)
 
 
 ## Diversão 🥳
