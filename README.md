@@ -25,10 +25,12 @@
 [![Python](https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=html5&logoColor=whit)](https://linkedin.com/in/arthur-souza-7ba6bb225/)
 
 
+
 ## Diversão 🥳
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://linkedin.com/in/arthur-souza-7ba6bb225/)
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://linkedin.com/in/arthur-souza-7ba6bb225/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://linkedin.com/in/arthur-souza-7ba6bb225/)
+[![Youtube](https://img.shields.io/badge/Youtube-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://linkedin.com/in/arthur-souza-7ba6bb225/)
 
 Apaixonado por tecnologias, sempre buscando conhecimento tanto em minha área como em outras distintas, conhecer e aprender sempre andam lado a lado comigo! 
 
